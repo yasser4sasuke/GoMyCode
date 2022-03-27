@@ -344,13 +344,13 @@ h2 {
   width: 80%;
 }
 .skills-content .right .js::before {
-  width: 30%;
+  width: 80%;
 }
 .skills-content .right .ps::before {
   width: 65%;
 }
 .skills-content .right .ang::before {
-  width: 30%;
+  width: 80%;
 }
 /******CONTACT ME******/
 .contact .title::after {
